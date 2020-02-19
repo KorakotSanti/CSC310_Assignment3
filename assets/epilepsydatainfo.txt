@@ -1,0 +1,35 @@
+A data frame with 59 observations on the following 11 variables.
+
+ID
+
+    Patient identification number
+Y1
+
+    Number of epilepsy attacks patients have during the first follow-up period
+Y2
+
+    Number of epilepsy attacks patients have during the second follow-up period
+Y3
+
+    Number of epilepsy attacks patients have during the third follow-up period
+Y4
+
+    Number of epilepsy attacks patients have during the forth follow-up period
+Base
+
+    Number of epileptic attacks recorded during 8 week period prior to randomization
+Age
+
+    Age of the patients
+Trt
+
+    a factor with levels placebo progabide indicating whether the anti-epilepsy drug Progabide has been applied or not
+Ysum
+
+    Total number of epilepsy attacks patients have during the four follow-up periods
+Age10
+
+    Age of the patients devided by 10
+Base4
+
+    Variable Base devided by 4
